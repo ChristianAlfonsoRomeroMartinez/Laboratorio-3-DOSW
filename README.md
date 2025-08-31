@@ -20,13 +20,15 @@
 	<img src="Laboratorio-3-DOSW/docs/image/maven4.png" alt="Maven 4" width="200" style="margin:10px;"/>
 </div>
 
-**Evidencias trabjo integrante 2**
+**Evidencias trabajo integrante 2**
 <div align="center">
 	<img src="Laboratorio-3-DOSW/docs/image/Estructura.png" alt="Estructura" width="200" style="margin:10px;"/>
 	<img src="Laboratorio-3-DOSW/docs/image/dependenciasJaCoCo1.png" alt="dependenciasJaCoCo1" width="200" style="margin:10px;"/>
 	<img src="Laboratorio-3-DOSW/docs/image/dependenciasJaCoCo2.png" alt="dependenciasJaCoCo2" width="200" style="margin:10px;"/>
 
 </div>
+
+<h2 align="left" style="color:#2e86de; font-size:2em;">Parte 2: Hora del Código</h2>
 
 **Reto 1**
 **Reglas de Negocio**
@@ -37,6 +39,20 @@
 5.	Una cuenta no puede ser creada si ya existe otra con el mismo número.
 6.	Solo se pueden realizar operaciones (consulta, depósito) sobre cuentas válidas y registradas.
 7.	La consulta de saldo únicamente está permitida si la cuenta existe en el sistema.
+
+**Funcionalidades principales**
+1. Creación y validación de cuentas: Se debe poder validar que el número de cuenta cumpla con las reglas de negocio ya antes expuestas y que la cuenta tenga asociado un cliente.  
+2. Consulta de saldo de una cuenta: retornar el saldo actual de una cuenta válida. 
+3. Depósito en cuenta: permitir consignar dinero a una cuenta registrada y actualizar el saldo después del depósito. 
+4. Gestión de bancos registrados: Permitir administrar qué códigos de banco son válidos y validar la existencia del banco mediante el uso de su código. 
+
+**Actores Principales**
+1. Cliente: persona natural o jurídica que solicita la creación de una cuenta, realiza depósitos y consulta saldos. 
+
+2. Sistema Bankify: plataforma que valida, crea y gestiona las cuentas y operaciones financieras. 
+
+3. Administrador del sistema (futuro): registra o actualiza los bancos válidos en el sistema. 
+
 
 
 
