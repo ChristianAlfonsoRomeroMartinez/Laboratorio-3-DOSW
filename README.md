@@ -54,13 +54,13 @@
 3. Administrador del sistema (futuro): registra o actualiza los bancos válidos en el sistema. 
 
 
-# Precondiciones del Sistema
+**Precondiciones del Sistema**
 
-1. **El sistema debe contar con una lista de bancos registrados y sus respectivos códigos de dos dígitos.**  
-2. **El cliente debe estar registrado en la plataforma para poder abrir una cuenta.**  
-3. **El sistema debe tener un repositorio seguro donde almacenar cuentas y saldos.**  
-4. **El sistema debe contar con mecanismos de autenticación para que solo el cliente acceda a su información.**  
-5. **Debe existir un entorno de pruebas con cobertura (JaCoCo) y análisis estático (SonarQube) configurado para garantizar calidad del software.**
+1. El sistema debe contar con una lista de bancos registrados y sus respectivos códigos de dos dígitos.  
+2. El cliente debe estar registrado en la plataforma para poder abrir una cuenta.  
+3. El sistema debe tener un repositorio seguro donde almacenar cuentas y saldos.  
+4. El sistema debe contar con mecanismos de autenticación para que solo el cliente acceda a su información.  
+5. Debe existir un entorno de pruebas con cobertura (JaCoCo) y análisis estático (SonarQube) configurado para garantizar calidad del software.
 
 
 
