@@ -1,13 +1,12 @@
 package edu.dosw.lab.planningPoker;
 
+import edu.dosw.lab.planningPoker.TeamMemberFactory.TeamMember;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
-
-import edu.dosw.lab.planningpoker.TeamMemberFactory.TeamMember;
 
 public class PlanningPokerSession {
     private List<UserStory> historias;
