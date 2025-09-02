@@ -1,4 +1,4 @@
-package edu.dosw.lab.planningpoker;
+package edu.dosw.lab.planningPoker;
 
 /**
  * Esta clase representa una historia de usuario en el sistema.

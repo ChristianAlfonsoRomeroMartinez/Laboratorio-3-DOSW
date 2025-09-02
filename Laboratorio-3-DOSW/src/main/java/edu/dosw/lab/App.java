@@ -1,5 +1,5 @@
 package edu.dosw.lab;
-
+import edu.dosw.lab.planningPoker.PlanningPokerMain;
 /**
  * Hello world!
  *
@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        PlanningPokerMain.ejecutar();
     }
 }
