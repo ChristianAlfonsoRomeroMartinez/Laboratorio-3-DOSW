@@ -86,3 +86,12 @@ Clases: Porcentaje de clases utilizadas
 Dicho lo anterior
 Su importancia radica en la deteccion del codigo no provado, por lo que nos obliga como desarrolladores a hacer pruebas de verdad, es decir significativas, lo que nos lleva a hacer un codigo de mejor calidad y previene las regreciones. asi mismo es un estandar de la industria. 
 Por otro lado nos encontramos en una cobertura superior al 85% por lo que ademas de la calidad garantizamos la ausencia de bugs. en caso de presentar un 60% es acpetable pero no demuestra mucho, mientras que inferior puede ser una alerta.
+
+
+## Reto 6
+## Imagenes 
+
+## Reflexión:
+**Juana Lozano**: la importancia de realizar pruebas a un software es fundamental para garantizar su calidad y fiabilidad. Las pruebas no son un paso opcional, sino una inversión estratégica que ahorra tiempo, permiten solucionar problemas antes de que afecten a los usuarios finales, lo cual es vital para la el resultado de cualquier producto.
+**Christian Alfonso**:
+**Carlos Mario**:
