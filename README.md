@@ -90,8 +90,20 @@ Por otro lado nos encontramos en una cobertura superior al 85% por lo que ademas
 
 ## Reto 6
 ## Imagenes 
+<div align="center">
+<img src="Laboratorio-3-DOSW/docs/image/reto6.1.jpg" alt="reto6.1" width="200" style="margin:10px;"/>
+<img src="Laboratorio-3-DOSW/docs/image/reto6.2.jpg" alt="reto6.2" width="200" style="margin:10px;"/>
+<img src="Laboratorio-3-DOSW/docs/image/reto6.3.jpg" alt="reto6.3" width="200" style="margin:10px;"/>
+<img src="Laboratorio-3-DOSW/docs/image/reto6.4.jpg" alt="reto6.4" width="200" style="margin:10px;"/>
+<img src="Laboratorio-3-DOSW/docs/image/reto6.5.jpg" alt="reto6.5" width="200" style="margin:10px;"/>
+<img src="Laboratorio-3-DOSW/docs/image/reto6.6.jpg" alt="reto6.6" width="200" style="margin:10px;"/>
+<img src="Laboratorio-3-DOSW/docs/image/reto6.7.jpg" alt="reto6.7" width="200" style="margin:10px;"/>
+</div>
+
 
 ## Reflexión:
 **Juana Lozano**: la importancia de realizar pruebas a un software es fundamental para garantizar su calidad y fiabilidad. Las pruebas no son un paso opcional, sino una inversión estratégica que ahorra tiempo, permiten solucionar problemas antes de que afecten a los usuarios finales, lo cual es vital para la el resultado de cualquier producto.
-**Christian Alfonso**:
+
+**Christian Alfonso**: En mi opinion este tipo de pruebas mas alla de ser un estandar de calidad es una forma de forjar un buen desarrollo, puesto que el desarrollo tiene una particularidad, y es que el cliente muchas veces no sabe que esta detras del desarrollo, solo ve que funciona, pero ese funciona es incierto, ya que al momento de las pruebas de cliente se prueba lo que se sabe que funciona o de la forma que no hay bugs, por lo que en conclusion estas prubas fuerzan un trato de buen codigo
+
 **Carlos Mario**:
